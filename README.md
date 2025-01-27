@@ -95,7 +95,7 @@ docker-compose up --build
 
 ## Deployment
 ### AWS EC2 Deployment
-The application is deployed on an AWS EC2 instance. Access it at: http://35.183.205.56:8501/
+The application is deployed on an AWS EC2 instance. Access it at: http://35.182.40.143:8501
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
