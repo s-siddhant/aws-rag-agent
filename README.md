@@ -10,7 +10,7 @@ This repository contains a full-stack application that allows users to upload do
 - Dynamic cleanup of sessions and associated temporary files.
 
 ## Deployment
-This application is deployed on AWS EC2 at: http://35.183.205.56:8501/
+This application is deployed on AWS EC2 at: http://35.182.40.143:8501
 
 ## Architecture
 - Frontend: A Streamlit-based UI for file upload and query interaction.
